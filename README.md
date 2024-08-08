@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeekitaS, my full name is Nekkita Sharma
 - 👀 I’m interested in coding, programming, web developing
-- 🌱 I’m currently persuing graduation with bachelor of computer application course.
+- 🌱 I’m currently persuing MCA from KNIT sultanpur.
 - 💞️ 
 - 📫
 
